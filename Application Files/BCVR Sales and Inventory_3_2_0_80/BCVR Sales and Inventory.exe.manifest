@@ -77,7 +77,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>rDUU88HrQswmGSC0Gytkzqh8ZEQ=</dsig:DigestValue>
+        <dsig:DigestValue>7AcRU42QmkrT+8aXJiQmJ4Fy0qE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -483,13 +483,13 @@
       <dsig:DigestValue>Bf9XPDJhYzzd8W3swIK6f4WLbn0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="ReportX\Receipt_SCI.rdlc" size="31372">
+  <file name="ReportX\Receipt_SCI.rdlc" size="31377">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>WevyyzWDH6esC5ri3voNa7nwFy4=</dsig:DigestValue>
+      <dsig:DigestValue>g+QoNG2KLdRzaWSxurkArcct82E=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ReportX\Receipt_SI_WI.rdlc" size="23822">
